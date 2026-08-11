@@ -54,7 +54,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Golub4ik-Official&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Golub4ik-Official&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Golub4ik-Official&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </div>
 
