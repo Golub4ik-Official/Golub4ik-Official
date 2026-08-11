@@ -60,6 +60,18 @@
 
 ---
 
+### 📚 MediaWiki Contributions
+
+<p align="left">
+  <!-- WIKI_STATS_START -->
+  <img src="https://img.shields.io/badge/DeadSpace14-578_edits-3B82F6?style=for-the-badge&logo=wikipedia&logoColor=white" alt="DeadSpace14 Stats" />
+  <img src="https://img.shields.io/badge/Sunrise14-61_edits-F59E0B?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Sunrise14 Stats" />
+  <img src="https://img.shields.io/badge/Station14-117_edits-10B981?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Station14 Stats" />
+  <!-- WIKI_STATS_END -->
+</p>
+
+---
+
 ### 📫 Let's Connect!
 
 <p align="left">
